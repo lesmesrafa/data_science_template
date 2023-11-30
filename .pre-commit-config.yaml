@@ -1,0 +1,4 @@
+-   repo: https://github.com/pre-commit/mirrors-black
+    rev: v22.12b0
+    hooks:
+    -   id: black
