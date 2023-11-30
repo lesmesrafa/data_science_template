@@ -1,4 +1,4 @@
-# kedro_tutorial
+# data science template based on kedro_tutorial template
 
 ## Overview
 
